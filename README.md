@@ -13,9 +13,9 @@ run NEWSOYES_AUTO_FISHC.exe
 ```
 Step 3 use for fun!!!!
 ```
-Press the camera picture in the upper right corner before using.
+❗❗❗Press the camera picture in the upper right corner before using.
 
-Hold the rod before use.
+❗❗❗Hold the rod before use.
 ```
 P = start
 
