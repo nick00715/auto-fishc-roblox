@@ -14,11 +14,11 @@ Step 3 use for fun!!!!
 Press the camera picture in the upper right corner before using.
 
 Hold the rod before use.
-
+```
 P = start
 
 M = Exit exe
 
-O = stop
-
+O = stop 
+```
 !!!!! Credit Asphalt Cake  Build EXE By Chatchai Yaimak _ NEWSOYES
