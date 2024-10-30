@@ -6,7 +6,6 @@ CoordMode, Tooltip, Screen
 CoordMode, Pixel, Screen
 CoordMode, Mouse, Screen
 
-Run, https://www.facebook.com/profile.php?id=100082332406943&locale=th_TH
 
 
 ;======    General Settings    ===================================================================;
@@ -25,7 +24,7 @@ WhiteBarColorTolerance := 15
 FishBarColorTolerance := 2
 
 ; Navigation UI Settings
-NavigationKey := "\"
+NavigationKey := "ù"
 NavigationFailsafeTimer := 20
 NavigationInputDelay := 10
 
